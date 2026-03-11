@@ -97,3 +97,12 @@ O banco de dados é criado automaticamente ao iniciar o container MySQL através
 ```
 db/init.sql
 ```
+## 📚 Referência
+
+Este projeto foi desenvolvido com base no tutorial:
+
+**Building a Flask Application with MySQL Database using Docker**
+Autor: Rishabh Agarwal
+
+Disponível em:
+https://www.linkedin.com/pulse/building-flask-application-mysql-database-using-docker-agarwal
